@@ -1,5 +1,5 @@
-# laguerta this tool is recoded by laguerta
-
+# 
+Installation
 $ apt update
 
 $ apt upgrade
