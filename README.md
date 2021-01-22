@@ -1,7 +1,7 @@
 # 
 Installation
 
-Facebool Tool
+Facebook Tool
 
 
 $ apt update
